@@ -18,7 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elliott-chong&" alt="elliott-chong" /></p>
 
-## Elliott Chong
+## Parth Royal
 **Nodejs Backend Developer**
 
 **Contact:** parthroyaal@gmail.com 
