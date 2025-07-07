@@ -60,8 +60,8 @@
 
 **Experience**
 
-* **Reluvate Technologies** (Full-Stack Intern)
-    * 2022 October - 2023 February
+* **Ginie Digital Private Limited** (Full-Stack Intern)
+    * 2022 January  - 2022 June
     * Developed a financial report dashboard for internal users using Google Cloud Platform, Python, Pandas, ReactJS.
     * Built a robust data pipeline using Python and Pandas.
 
