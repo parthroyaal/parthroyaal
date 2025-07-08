@@ -1,16 +1,5 @@
-<h1 align="center">Name : Parth Royal</h1>
-<h3 align="center">A 25 year old, <a href='https://www.youtube.com/@skillforgecloud'  target="_blank">content creator</a> and problem solver.</h3>
-
-
-
-- 👨‍💻 All of my projects are available at [https://parthroyale.github.io/parthroyale/](https://parthroyale.github.io/parthroyale/)
-
-- 📫 How to reach me **parthroyaal@gmail.com**
-
-
-
 ## Parth Royal
-**Nodejs Backend Developer**
+
 
 **Contact:** parthroyaal@gmail.com 
 **GitHub:** github.com/parthroyaal
