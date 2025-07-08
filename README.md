@@ -39,12 +39,13 @@
 * **Frameworks**
     * Next.js 
 * **Other**
+    * C# Programming Language
     * Linux (Server Management)
     * AWS (Instance Creation, Security Group Management, Reverse Proxy Setup, Web Server Setup)
     * Domain Management (Records, Domain to Server Pointing Using A Records, Email Routing Using Other Records)
-    * Typing 60+wpm 
+    * Typing 60+wpm
+      
 **Experience**
-
 * **Ginie Digital Private Limited** (Full-Stack Intern)
     * 2022 January  - 2022 June
     * Developed a financial report dashboard for internal users using Google Cloud Platform, Python, Pandas, ReactJS.
