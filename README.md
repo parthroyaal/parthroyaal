@@ -1,7 +1,6 @@
 # Parth Royal
 * 📧 Email: parthroyaal@gmail.com
 * 💻 GitHub: github.com/parthroyaal
-* 🌐 Portfolio: parthroyale.github.io/parthroyaal
 
 **Education**
 
