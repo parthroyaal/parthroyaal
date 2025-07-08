@@ -42,10 +42,12 @@
 
 **Projects**
 
-* **NextJs Applicaton**
-    * Developed a fully static industrial training website using Next.js and Static Site Generation (SSG) .
 * **Nifty50 Tick Data Capture Tool (Flask + Fyers API)**
     * Built a Flask web application that integrates with the Fyers API to capture and store full-day trading tick data locally.
+    * Access Here : https://a.apkn.tech/
+* **NextJs Applicaton**
+    * Developed a fully static industrial training website using Next.js and Static Site Generation (SSG) .
+    * Acess Here : https://next.apkn.tech/ 
 
 
 
